@@ -45,7 +45,7 @@ const showMovements = ref(false);
   bottom: 0;
   width: 100vw;
   background-color: white;
-  box-shadow: 0 -8px 16px #e5e5e5;
+  box-shadow: 0 -8px 16px #617669;
   border-radius: 24px;
 }
 .movements .head {
@@ -63,7 +63,7 @@ const showMovements = ref(false);
 .movements .head .grip {
   width: 120px;
   height: 8px;
-  background-color: #e5e5e5;
+  background-color: #9eb1a5;
   border-radius: 4px;
 }
 </style>
